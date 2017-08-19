@@ -1,0 +1,229 @@
+.External_Box{
+    width:100%;
+    height:900px;
+    background-color: gray;
+}
+.Ludo_Box{
+    width:800px;
+    height:800px;
+    margin-left:20%;
+    border:20px solid black;
+    background-color: black;
+}
+
+.Box1{
+    width:788px;
+    margin:0 auto;
+
+
+}
+
+.Box2{
+
+    width:788px;
+    margin:0 auto;
+
+}
+
+.Box3{
+
+    width:788px;
+    margin:0 auto;
+}
+
+
+
+
+.Sub_Box1{
+    width:315px;
+    float:left;
+    height:315px;
+    background-color:deepskyblue;
+
+}
+
+.Sub_Box2{
+    width:315px;
+    height:315px;
+    float:left;
+    background-color: coral;
+}
+
+.Sub_Box3{
+
+    width:157.5px;
+    float:left;
+    height:158px;
+    background-color: black;
+}
+
+
+.Sub_Box4{
+
+    width:315px;
+    float:left;
+    height:315px;
+    background-color:springgreen;
+
+}
+
+.Sub_Box5{
+
+    width:315px;
+    height:315px;
+    float:left;
+    background-color:mediumpurple;
+}
+
+.Ludo_Box1{
+
+    width:157.5px;
+    float:left;
+    height:315px;
+
+}
+
+.Ludo_Box2{
+
+    width:315px;
+    height:158px;
+    float:left;
+}
+
+
+.Ludo_Box3{
+
+    width:315px;
+    height:158px;
+    float:left;
+
+}
+
+.Ludo_Box4{
+
+    width:157.5px;
+    float:left;
+    height:162px;
+}
+
+
+
+.WhiteBox{
+    background-color: whitesmoke;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+
+.RedBox{
+
+    background-color: #e6323a;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+.OrangeBox{
+
+    background-color: orangered ;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+
+
+.GreenBox{
+
+    background-color: darkseagreen;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+
+.KhakiBox{
+
+    background-color: khaki;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+
+.BlueBox{
+
+    background-color: steelblue;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+
+
+.GrayBox{
+
+    background-color: darkgray;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+
+
+
+.BrownBox{
+
+    background-color: saddlebrown;
+    border:1px solid black;
+    float:left;
+    width:50px;
+    height:50px;
+}
+
+
+.Internal_Box1{
+
+    width: 70%;
+    height: 70% ;
+    margin: 15% auto;
+    overflow-y: auto;
+    background-color:cornflowerblue;
+}
+
+.Internal_Box2{
+
+    width: 70%;
+    height: 70% ;
+    margin: 15% auto;
+    overflow-y: auto;
+    background-color:cornflowerblue;
+}
+
+.Internal_Box3{
+
+    width: 70%;
+    height: 70% ;
+    margin: 15% auto;
+    overflow-y: auto;
+    background-color:cornflowerblue;
+}
+
+.Internal_Box4{
+
+    width: 70%;
+    height: 70% ;
+    margin: 15% auto;
+    overflow-y: auto;
+    background-color:cornflowerblue;
+}
+
+.Internal_Box5{
+
+    width: 70%;
+    height: 70% ;
+    margin: 15% auto;
+    overflow-y: auto;
+    background-color:cornflowerblue;
+}
